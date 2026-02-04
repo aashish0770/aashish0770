@@ -28,17 +28,17 @@ I am a Software Engineering student at **Metropolia University of Applied Scienc
 
 ### 🌟 Featured Projects
 
-#### 🤖 [Metropolia-AI-Hub](https://github.com/your-username/repo)
+#### 🤖 [Metropolia-AI-Hub](https://github.com/aashish0770/metropoli_ai_hub)
 **AI-Powered Academic Assistant** - Developed a **RAG (Retrieval-Augmented Generation)** pipeline using Python and ChromaDB.
 - Integrated OpenAI/Gemini APIs to provide context-aware academic support for students.
 - *Tech: Python, LangChain, Vector Search, Streamlit*
 
-#### 🏨 [Full-Stack Booking Platform](https://github.com/your-username/repo)
+#### 🏨 [Full-Stack Booking Platform](https://bookmeworld.com/)
 **Enterprise-Scale Reservation System** - Built a multi-vendor system for hotels and events.
 - Optimized database queries, resulting in a significantly faster user experience.
 - *Tech: React, Node.js, Express, MongoDB*
 
-#### 🎬 [RodhiFlix](https://github.com/your-username/repo)
+#### 🎬 [RodhiFlix](https://rodhiflix.com/auth/login)
 **Community Streaming Platform** - Implemented role-based access control (RBAC) and customized content management.
 - Focused on high-performance video rendering and UI responsiveness.
 - *Tech: React, Node.js, Express, CSS3*
