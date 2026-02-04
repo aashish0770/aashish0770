@@ -1,81 +1,70 @@
-<h1 align="center">Hi, I'm Aashish 👋</h1>
+# Hi, I'm Aashish Timalsina 👋
 
-<p align="center">
-🎓 Software Engineering student at <b>Metropolia University of Applied Sciences</b><br/>
-💻 Software Developer with <b>2+ years</b> of hands-on experience<br/>
-📍 Espoo, Finland
+<p align="left">
+  <a href="https://www.linkedin.com/in/aashish-timalsina-29a866267"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:aashish.timalsina@metropolia.fi"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">
-I build modern web applications using <b>React</b>, <b>Node.js</b>, and <b>REST APIs</b>,<br/>
-with a strong focus on clean code, performance, and real-world usability.
-</p>
+### 🚀 Full-Stack Developer | AI Enthusiast | B.Eng Student
+I am a Software Engineering student at **Metropolia University of Applied Sciences** based in Espoo, Finland. With **2+ years of professional experience**, I bridge the gap between robust Full-Stack development and emerging AI technologies.
+
+- 🛠️ **Professional Impact:** Previously boosted operational efficiency by 43% and reduced system bugs by 25% in production environments.
+- 🤖 **Current Focus:** Building production-grade GenAI applications using RAG pipelines and Agentic workflows.
+- 🌍 **Goal:** Delivering clean, scalable, and human-centric software solutions.
 
 ---
 
-## 🛠 Tech Stack
+### 🛠️ Technical Toolbox
 
-### Frontend
-- React.js  
-- JavaScript (ES6+), TypeScript  
-- Tailwind CSS, Bootstrap, MUI  
-
-### Backend
-- Node.js, Express.js  
-- REST APIs  
-- Python (Flask), Java (basic)  
-
-### Databases
-- MongoDB  
-- PostgreSQL, MySQL  
-
-### Tools & Practices
-- Git, GitHub, GitLab  
-- Redux / Redux Toolkit  
-- Agile development  
-- Performance optimization  
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | React.js, TypeScript, JavaScript (ES6+), Tailwind CSS, Redux Toolkit |
+| **Backend** | Node.js, Express.js, Python (Flask), REST APIs |
+| **AI & Data** | LangChain, RAG Pipelines, Vector Databases (ChromaDB), OpenAI/Gemini APIs |
+| **Databases** | PostgreSQL, MongoDB, MySQL |
+| **DevOps & Tools** | Git, Docker (Learning), Jenkins (Learning), Agile/Scrum, Postman |
 
 ---
 
-## 📌 Featured Projects
+### 🌟 Featured Projects
 
-### 🔹 Full-Stack Booking Platform
-Production-style booking system integrating hotels, events, and ticket reservations.  
-**Tech:** React, Node.js, Express, MongoDB  
-🔗 Live Demo · 🔗 GitHub Repo  
+#### 🤖 [Metropolia-AI-Hub](https://github.com/your-username/repo)
+**AI-Powered Academic Assistant** - Developed a **RAG (Retrieval-Augmented Generation)** pipeline using Python and ChromaDB.
+- Integrated OpenAI/Gemini APIs to provide context-aware academic support for students.
+- *Tech: Python, LangChain, Vector Search, Streamlit*
 
----
+#### 🏨 [Full-Stack Booking Platform](https://github.com/your-username/repo)
+**Enterprise-Scale Reservation System** - Built a multi-vendor system for hotels and events.
+- Optimized database queries, resulting in a significantly faster user experience.
+- *Tech: React, Node.js, Express, MongoDB*
 
-### 🔹 RodhiFlix – Streaming Platform
-Community-focused video streaming platform with subscription and admin features.  
-**Tech:** React, Node.js, Express  
-🔗 GitHub Repo  
-
----
-
-### 🔹 Admin Dashboard / CMS
-Role-based admin panel for managing content and users.  
-**Tech:** React, REST APIs  
-🔗 GitHub Repo  
+#### 🎬 [RodhiFlix](https://github.com/your-username/repo)
+**Community Streaming Platform** - Implemented role-based access control (RBAC) and customized content management.
+- Focused on high-performance video rendering and UI responsiveness.
+- *Tech: React, Node.js, Express, CSS3*
 
 ---
 
-## 🌱 Currently Learning
-- Docker & basic CI/CD  
-- Cloud fundamentals (AWS)  
-- Advanced TypeScript patterns  
+### 📈 Professional Experience Highlights
+- **Full-Stack Developer (360itHub & Gm Tech):**
+  - Architected custom CMS solutions that streamlined content delivery.
+  - Collaborated in cross-functional Agile teams to ship features 20% faster than previous cycles.
+  - Specialized in refactoring legacy code for performance and maintainability.
 
 ---
 
-## 📫 Contact
-
-- 📧 Email: **aashish.timalsina@metropolia.fi**  
-- 🌐 Portfolio: [my-portfolio-ivory-two-7drypsak8m.vercel.app](https://my-portfolio-ivory-two-7drypsak8m.vercel.app)  
-- 💼 LinkedIn: (https://www.linkedin.com/in/aashish-timalsina-29a866267)  
+### 🌱 What I'm Up To
+- 🔭 **Working on:** Advancing my AI Agent knowledge and learning **Go**.
+- ☁️ **Learning:** Dockerizing full-stack applications and setting up CI/CD pipelines.
+- 💬 **Ask me about:** React state management, RAG implementation, or life in Espoo!
 
 ---
 
-<p align="center">
-⭐ Open to <b>junior / graduate software developer opportunities</b><br/>
-Always interested in building meaningful products.
+### 🤝 Connect with Me
+- 🌐 [Portfolio Website](https://my-portfolio-ivory-two-7drypsak8m.vercel.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aashish-timalsina-29a866267)
+- 📧 [aashish.timalsina@metropolia.fi](mailto:aashish.timalsina@metropolia.fi)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Aashish's GitHub Stats" />
 </p>
